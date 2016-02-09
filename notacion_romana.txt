@@ -1,2 +1,3 @@
 Pruebas TDD en Notacion romana
 Codificacion de la traduccion de la notacion a la romana
+Pruebas y refactorización del codigo realizadas
