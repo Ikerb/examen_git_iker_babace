@@ -1,2 +1,3 @@
 Suma: Pruebas TDD "hechas"
 	Codificado de suma "hecho"
+	Pruebas y refactorización correcta
