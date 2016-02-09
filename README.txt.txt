@@ -32,17 +32,20 @@ Prioridad	Historia    Tareas	Estimación t      Historia completa cuando...
 4		Notación números romanos	3		La notación tiene que estar debidamente
 			TDD-Test unit.		1		implementada
 			codificar notación	1
-			Prueba y Refactorizar	1					
+			Prueba y Refactorizar	1	
 
-
+				
 **Comentarios:**
+
 
 El feedback del error al usuario en caso de equivocarse en la resta, 
 se ha incluido como tarea dentro de la historia de usuario de la resta.
 
 Al considerar recursos ilimitados, dividiremos las historias para que
-diferentes programadores realicen tareas en paralelo.
-En el caso de las ramas de mayor prioridad 1, 2 y 3. Se llevaran a cabo en 
-paralelo, una vez se terminen, realizamos la 4, de menor prioridad y bloqueada
-por las demás tareas, para que traduzca la notación a números romanos.
+diferentes programadores realicen tareas en paralelo. Las historias de usuario
+de prioridad 1, 2 y 3 se pueden trabajar de forma independiente, no son bloqueantes
+entre sí, pero sí lo son las tareas que contienen cada historia entre sí.
+
+Una vez se terminen, realizamos la 4, de menor prioridad y bloqueada
+por las demás tareas, ya que es necesario  para que traduzca la notación a números romanos.
 
